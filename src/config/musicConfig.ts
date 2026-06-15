@@ -63,6 +63,13 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 				cover: "/assets/music/cover/再度和你.webp",
 				lrc: "",
 			},
+			{
+				name: " Ripples of Past Reverie",
+				artist: "Cassie Wei,HOYO-MiX",
+				url: "/assets/music/Cassie Wei,HOYO-MiX - Ripples of Past Reverie.mp3",
+				cover: "/assets/music/cover/再度和你.webp",
+				lrc: "",
+			},
 		],
 	},
 };
