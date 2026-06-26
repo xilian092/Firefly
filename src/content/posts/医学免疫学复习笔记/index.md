@@ -5,7 +5,7 @@ updated: 2026-06-25
 description: 医学免疫学期末复习笔记，涵盖免疫学概论、固有免疫、抗原、APC、T/B淋巴细胞、免疫耐受、超敏反应、自身免疫病、肿瘤免疫、移植免疫、免疫缺陷、疫苗与免疫治疗等
 tags: [医学免疫学, 医学, 复习笔记]
 category: 学习笔记
-slug:review-notes-for-medical-immunology 
+slug: review-notes-for-medical-immunology 
 draft: false
 pinned: false
 lang: zh-CN
