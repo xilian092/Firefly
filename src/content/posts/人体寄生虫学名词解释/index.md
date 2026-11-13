@@ -2,7 +2,7 @@
 title: 人体寄生虫学名词解释（中英对照）
 published: 2026-06-14
 updated: 2026-06-14
-description: 人体寄生虫学名词解释汇总，中英对照，涵盖总论、蠕虫、原虫、医学节肢动物四大部分。
+description: 人体寄生虫学名词解释汇总，中英对照，涵盖总论、蠕虫、原虫、医学节肢动物四大部分（保留原文红/绿标记）。
 tags: [人体寄生虫学, 医学, 名词解释]
 category: 学习笔记
 draft: false
@@ -11,7 +11,7 @@ lang: zh-CN
 comment: true
 ---
 
-> 系统整理人体寄生虫学的核心名词解释，按总论、蠕虫、原虫、医学节肢动物四部分编排，每个词条的中文名后括号内为英文名。
+> 系统整理人体寄生虫学的核心名词解释，按总论、蠕虫、原虫、医学节肢动物四部分编排，每个词条的中文名后括号内为英文名。文中<span style="color:#e60012">红色</span>与<span style="color:#0e8f5f">绿色</span>文字沿用原文档的重点标记。
 
 ## 一、总论（General Introduction）
 
@@ -25,51 +25,51 @@ comment: true
 
 ### 互利共生（Mutualism）
 
-两种生物共同生活，双方互相依靠，彼此受益。
+两种生物共同生活，双方互相依靠，<span style="color:#e60012">彼此受益</span>。
 
 ### 共栖（Commensalism）
 
-两种不同的生物共同生活，其中一方受益，另一方既不受益，也不受害的现象。
+两种不同的生物共同生活，<span style="color:#e60012">其中一方受益，另一方既不受益，也不受害</span>的现象。
 
 ### 寄生（Parasitism）
 
-两种生物共同生活，其中一方受益，另一方受害，受害者提供营养物质和居住场所给受益者的关系。
+<span style="color:#0e8f5f">两种生物共同生活，其中一方受益，另一方受害，</span><span style="color:#e60012">受害者提供营养物质和居住场所给受益者</span><span style="color:#0e8f5f">的关系。</span>
 
 ### 生活史（Life cycle）
 
-寄生虫完成一代生长、发育和繁殖的完整过程。
+寄生虫完成一代<span style="color:#e60012">生长、发育和繁殖</span>的完整过程。
 
 ### 终宿主（Definitive host）
 
-寄生虫成虫或有性生殖阶段所寄生的宿主。
+寄生虫<span style="color:#e60012">成虫或有性生殖阶段</span>所寄生的宿主。
 
 ### 中间宿主（Intermediate host）
 
-寄生虫的幼虫或无性生殖阶段所寄生的宿主。
+寄生虫的<span style="color:#e60012">幼虫或无性生殖阶段</span>所寄生的宿主。
 
 ### 保虫宿主（Reservoir host）
 
-某些寄生虫既可寄生于人，又可寄生于某些脊椎动物。后者在一定条件下可将其体内的寄生虫传播给人。
+<span style="color:#0e8f5f">某些寄生虫既可寄生于</span><span style="color:#e60012">人</span><span style="color:#0e8f5f">，又可寄生于某些</span><span style="color:#e60012">脊椎动物</span><span style="color:#0e8f5f">。后者在</span><span style="color:#e60012">一定条件下可将其体内的寄生虫传播给人</span><span style="color:#0e8f5f">。</span>
 
 ### 转续宿主（Paratenic host）
 
-某些寄生虫的幼虫侵入非适宜宿主后不能发育为成虫，但能存活并长期维持幼虫状态。只有当其有机会侵入适宜宿主体内时，才能发育为成虫。
+<span style="color:#0e8f5f">某些寄生虫的幼虫侵入非适宜宿主后不能发育为成虫，但能</span><span style="color:#e60012">存活并长期维持幼虫状态</span><span style="color:#0e8f5f">。只有当其有机会侵入适宜宿主体内时，才能发育为成虫。</span>
 
 ### 免疫逃避（Immune evasion）
 
-虫体表面结合宿主抗原，逃避宿主的免疫识别。
+<span style="color:#0e8f5f">虫体</span><span style="color:#e60012">表面结合宿主抗原</span><span style="color:#0e8f5f">，逃避宿主的免疫识别。</span>
 
 ### 感染期（Infective stage；感染阶段）
 
-寄生虫的某个生活史阶段能够侵入宿主体内并可继续发育或繁殖。
+<span style="color:#0e8f5f">寄生虫的某个生活史阶段能够</span><span style="color:#e60012">侵入宿主体内并可继续发育或繁殖</span><span style="color:#0e8f5f">。</span>
 
 ### 带虫者（Carrier）
 
-人体感染寄生虫后无明显临床表现，但可传播病原体，称为传染源。
+人体感染寄生虫后<span style="color:#e60012">无明显临床表现</span>，但<span style="color:#e60012">可传播病原体</span>，称为传染源。
 
 ### 带虫免疫（Premunition）
 
-人体感染寄生虫后，不能完全消除体内的寄生虫，但对同种的再感染有一定的免疫力，这种免疫状态称带虫免疫。
+<span style="color:#0e8f5f">人体感染寄生虫后，不能完全消除体内的寄生虫，但</span><span style="color:#e60012">对同种的再感染有一定的免疫力</span><span style="color:#0e8f5f">，这种免疫状态称带虫免疫。</span>
 
 ### 慢性感染（Chronic infection）
 
@@ -77,29 +77,29 @@ comment: true
 
 ### 隐性感染（Inapparent infection）
 
-人体感染寄生虫后，既没有明显的临床表现，又不易用常规方法检获病原体的一种寄生现象。
+<span style="color:#0e8f5f">人体感染寄生虫后，既</span><span style="color:#e60012">没有明显的临床表现</span><span style="color:#0e8f5f">，又</span><span style="color:#e60012">不易用常规方法检获病原体</span><span style="color:#0e8f5f">的一种寄生现象。</span>
 
 ### 幼虫移行症（Larva migrans）
 
-指一些蠕虫幼虫侵入非正常宿主体内，不能发育为成虫，这些幼虫在体内长期移行，造成宿主组织损伤。
+<span style="color:#0e8f5f">指一些</span><span style="color:#e60012">蠕虫幼虫</span><span style="color:#0e8f5f">侵入</span><span style="color:#e60012">非正常宿主体内</span><span style="color:#0e8f5f">，</span><span style="color:#e60012">不能发育为成虫</span><span style="color:#0e8f5f">，这些幼虫在体内长期移行，造成宿主组织损伤。</span>
 
 ### 异位寄生（Ectopic parasitism）
 
-寄生虫在常见寄生部位以外的组织或器官内寄生，引起异位损害。
+<span style="color:#0e8f5f">寄生虫在常</span><span style="color:#e60012">见寄生部位以外的组织或器官</span><span style="color:#0e8f5f">内寄生，引起异位损害。</span>
 
 ### 人兽共患寄生虫病（Zoonotic parasitic disease）
 
-有些人体寄生虫病可以在人和动物间自然传播，人和动物体内的寄生虫可互为传染源。
+<span style="color:#0e8f5f">有些人体寄生虫病可以</span><span style="color:#e60012">在人和动物间自然的传播</span><span style="color:#0e8f5f">，人和动物体内的寄生虫可互为传染源。</span>
 
 ## 二、蠕虫（Helminths）
 
 ### 土源性线虫（Soil-transmitted nematode）
 
-这类线虫在生长发育过程中，不需要中间宿主，其虫卵或幼虫在外界发育为感染阶段，直接感染人，亦称直接发育型。
+这类线虫在生长发育过程中，<span style="color:#e60012">不需要中间宿主</span>，其虫卵或幼虫<span style="color:#e60012">在外界发育为感染阶段</span>，直接感染人，亦称直接发育型。
 
 ### 生物源性线虫（Biohelminth）
 
-这类线虫在生长发育过程中，需要中间宿主，其幼虫在中间宿主体内发育为感染阶段，再感染人，亦称间接发育型。
+这类线虫在生长发育过程中，<span style="color:#e60012">需要中间宿主</span>，其幼虫<span style="color:#e60012">在中间宿主体内发育为感染阶段</span>，再感染人，亦称间接发育型。
 
 ### 蚴体增殖（Polyembryony）
 
@@ -107,19 +107,19 @@ comment: true
 
 ### 钩蚴性皮炎（Hookworm dermatitis）
 
-指钩虫感染期幼虫钻入皮肤后形成的局部炎性病变。患者局部皮肤有针刺、灼烧和奇痒感，进而出现充血斑点，若继发感染则形成脓包，最后结痂脱皮而愈。
+指<span style="color:#e60012">钩虫感染期</span>，幼虫钻入皮肤后形成的局部炎性病变。患者局部皮肤有针刺、灼烧和奇痒感，进而出现充血斑点，若继发感染则形成脓包，最后结痂脱皮而愈。
 
 ### 异嗜症（Pica）
 
-少数钩虫患者表现喜食生米、生豆、甚至食泥土、碎纸、破布等异常嗜好，此种现象称为"异嗜症"。
+<span style="color:#6aa721">少数钩虫患者表现喜食生米、生豆、甚至食泥土、碎纸、破布等异常嗜好，此种现象称为“异嗜症”。</span>
 
 ### 低色素小细胞型贫血（Hypochromic microcytic anemia）
 
-钩虫寄生于人体可造成患者长期慢性失血，铁和蛋白质不断损耗而导致贫血。由于缺铁，血红蛋白的合成速度比细胞新生速度慢，则使红细胞体积变小，着色浅，故而将此种贫血称为低色素小细胞型贫血。
+<span style="color:#e60012">钩虫</span><span style="color:#6aa721">寄生于人体可造成患者长期慢性失血，铁和蛋白质不断损耗而导致贫血。由于缺铁，血红蛋白的合成速度比细胞新生速度慢，则使红细胞体积变小，着色浅，故而将此种贫血称为低色素小细胞型贫血。</span>
 
 ### 何博礼现象（Hoeppli phenomenon）
 
-血吸虫虫卵成簇产于宿主组织内，肉芽肿急性期易液化，出现嗜酸性脓肿，虫卵周围出现许多浆细胞，伴有抗原抗体复合物沉着。
+<span style="color:#e60012">血吸虫虫卵</span><span style="color:#0e8f5f">成簇产于宿主组织内，肉芽肿急性期易液化，出现</span><span style="color:#e60012">嗜酸性脓肿</span><span style="color:#0e8f5f">，虫卵周围出现许多</span><span style="color:#e60012">浆细胞</span><span style="color:#0e8f5f">，伴有</span><span style="color:#e60012">抗原抗体复合物</span><span style="color:#0e8f5f">沉着。</span>
 
 ### 囊蚴（Encysted metacercaria）
 
@@ -127,7 +127,7 @@ comment: true
 
 ### 尾蚴（Cercaria）
 
-是吸虫生活史的一个发育阶段。虫体分为体、尾两部。其尾部长短、形状各虫种不一。
+是吸虫生活史的一个发育阶段。虫体分为体、尾两部。其尾部长短，形状各虫种不一。
 
 ### 尾蚴性皮炎（Cercarial dermatitis）
 
@@ -135,7 +135,7 @@ comment: true
 
 ### 链体（Strobila）
 
-是绦虫成虫颈部以后分节的虫体，由幼节、成节和孕节组成。链体是虫体最显著部分，由 3~4 个以致数千个节片组成，越往后越宽大。
+是绦虫成虫颈部以后分节的虫体，由幼节、成节和孕节组成。链体是虫体最显著部分，由3~4个以致数千个节片组成，越往后越宽大。
 
 ### 成节（Mature proglottid）
 
@@ -147,7 +147,7 @@ comment: true
 
 ### 六钩蚴（Oncosphere）
 
-圆叶目中的绦虫虫卵成熟时内含有 1 个有 6 个小钩的幼虫，称六钩蚴。
+圆叶目中的绦虫虫卵成熟时内含有1个有6个小钩的幼虫称六钩蚴。
 
 ### 囊尾蚴（Cysticercus）
 
@@ -155,7 +155,7 @@ comment: true
 
 ### 棘球蚴（Hydatid cyst）
 
-细粒棘球绦虫中绦期的幼虫，棘球蚴是一个圆形的囊，由囊壁和内含物组成。囊内含囊液和无数头节，称原头蚴。此外，还有许多生发囊，其内又可有许多头节或更小的囊，以致一个棘球蚴中可含成千上万个原头蚴。
+<span style="color:#0e8f5f">细粒棘球绦虫中绦期的幼虫，棘球蚴是一个圆形的囊，由囊壁和内含物组成。囊内含囊液和无数头节，称原头蚴。此外，还有许多生发囊，其内又可有许多头节或更小的囊，以致一个棘球蚴中可含成千上万个原头蚴。</span>
 
 ### 棘球蚴砂（Hydatid sand）
 
@@ -163,88 +163,88 @@ comment: true
 
 ### 迁延移行（Delayed migration）
 
-十二指肠钩虫部分幼虫在进入小肠前，可以"暂停发育"状态滞留于组织内，经过一段时间再进入肠腔发育。
+<span style="color:#e60012">十二指肠钩虫</span><span style="color:#0e8f5f">部分</span><span style="color:#e60012">幼虫</span><span style="color:#0e8f5f">在进入小肠前，可以</span><span style="color:#e60012">“暂停发育”状态滞留于组织内</span><span style="color:#0e8f5f">，经过一段时间再进入肠腔发育。</span>
 
 ### 夜现周期性（Nocturnal periodicity）
 
-丝虫成虫寄生于淋巴系统产微丝蚴，微丝蚴在人的外周血液中周期性出现，白天滞留于肺微血管内，夜晚则出现在外周血液中，微丝蚴在外周血液中的昼少夜多现象称为微丝蚴的夜现周期性。
+<span style="color:#e60012">丝虫</span><span style="color:#0e8f5f">成虫寄生于淋巴系统产微丝蚴，</span><span style="color:#e60012">微丝蚴</span><span style="color:#0e8f5f">在人的</span><span style="color:#e60012">外周血液中周期性出现</span><span style="color:#0e8f5f">，白天滞留于肺微血管内，夜晚则出现在外周血液中，微丝蚴在外周血液中的昼少夜多现象称为微丝蚴的夜现周期性。</span>
 
 ### 世代交替（Alternation of generations）
 
-指有些寄生虫的生活史中，有性生殖与无性生殖规律性地交替进行。
+<span style="color:#6aa721">指有些寄生虫的生活史中，有性生殖与无性生殖规律性地交替进行。</span>
 
 ### 伴随免疫（Concomitant immunity）
 
-（血吸虫）活成虫可使宿主产生获得性免疫，这种免疫对体内原有成虫没影响，但对再感染的童虫有一定抵抗力。
+<span style="color:#e60012">（血吸虫）活成虫</span><span style="color:#0e8f5f">可使宿主产生</span><span style="color:#e60012">获得性免疫</span><span style="color:#0e8f5f">，这种免疫对体内</span><span style="color:#e60012">原有成虫没影响</span><span style="color:#0e8f5f">，但</span><span style="color:#e60012">对再感染的童虫有一定抵抗力</span><span style="color:#0e8f5f">。</span>
 
 ## 三、原虫（Protozoa）
 
 ### 滋养体（Trophozoite）
 
-基本生活期；具运动、摄食、生殖能力的原虫生活史阶段。
+<span style="color:#6aa721">基本生活期；具运动、摄食、生殖能力的原虫生活史阶段。</span>
 
 ### 包囊（Cyst）
 
-感染阶段；原虫的滋养体在不良环境下分泌外壁，形成不活动的包囊。
+<span style="color:#6aa721">感染阶段；原虫的滋养体在不良环境下分泌外壁，形成不活动的包囊。</span>
 
 ### 休眠子（Hypnozoite）
 
-间日疟原虫迟发型子孢子侵入肝细胞后发育缓慢，经不同时间的休眠期，激活后发育为裂殖体并继续分裂为裂殖子，进入血流。休眠期的疟原虫为休眠子。
+<span style="color:#e60012">间日疟原虫迟发型子孢子</span><span style="color:#0e8f5f">侵入肝细胞后发育缓慢，经不同时间的休眠期，激活后发育为裂殖体并继续分裂为裂殖子，进入血流。休眠期的疟原虫为休眠子。</span>
 
 ### 人际传播型（Anthroponotic transmission type）
 
-生活史只需一种宿主，通过直接或间接方式由感染者传播至易感者的原虫，如溶组织内阿米巴。
+<span style="color:#6aa721">生活史</span><span style="color:#e60012">只需一种宿主</span><span style="color:#6aa721">，通过</span><span style="color:#e60012">直接或间接方式</span><span style="color:#6aa721">由感染者传播至易感者的原虫，如溶组织内阿米巴。</span>
 
 ### 虫媒传播型（Vector-borne transmission type）
 
-原虫完成生活史需在吸血昆虫体内发育至感染阶段，再接种人体，如疟原虫。
+<span style="color:#6aa721">原虫完成生活史需在</span><span style="color:#e60012">吸血昆虫体</span><span style="color:#6aa721">内发育至感染阶段，再接种人体，如疟原虫。</span>
 
 ### 循环传播型（Cyclozoonotic transmission type）
 
-完成生活史需一种以上的脊椎动物，分别进行有性生殖和无性生殖，如弓形虫。
+<span style="color:#6aa721">完成生活史</span><span style="color:#e60012">需一种以上的脊椎动物</span><span style="color:#6aa721">，分别进行有性生殖和无性生殖，如弓形虫。</span>
 
 ### 再燃（Recrudescence）
 
-疟疾发作停止后，体内仍有少量残存的红内期原虫，在一定条件下可重新大量增殖起来，经过一段时间，在无再感染的情况下再次出现疟疾发作，称疟疾的再燃。
+<span style="color:#0e8f5f"> 疟疾发作停止后，体内仍有少量残存的</span><span style="color:#e60012">红内期原虫</span><span style="color:#0e8f5f">，在一定条件下可重新大量增殖起来，经过一段时间，</span><span style="color:#e60012">在无再感染的情况下再次出现疟疾发作</span><span style="color:#0e8f5f">，称疟疾的再燃。</span>
 
 ### 复发（Relapse）
 
-疟疾初发后红内期原虫已被消灭，在未经虫媒传播感染的情况下，经过一段时间的潜隐期，又重新出现原虫血症及疟疾发作，称疟疾的复发。
+<span style="color:#0e8f5f">疟疾初发后</span><span style="color:#e60012">红内期原虫已被消灭</span><span style="color:#0e8f5f">，在</span><span style="color:#e60012">未经虫媒传播感染</span><span style="color:#0e8f5f">的情况下，经过一段时间的潜隐期，又重新出现原虫血症及疟疾发作，称疟疾的复发。</span>
 
 ### 机会性致病（Opportunistic pathogenesis）
 
-免疫功能正常的个体感染某些原虫后并不表现临床症状，暂时处于隐性感染状态。但当机体抵抗力下降后免疫功能不全时，这些原虫的繁殖能力和致病力显著增强，使患者出现明显的临床症状，甚至危及生命。
+<span style="color:#0e8f5f">免疫功能正常的个体感染某些原虫后并不表现临床症状，暂时处于隐性感染状态。但当</span><span style="color:#e60012">机体抵抗力下降后免疫功能不全</span><span style="color:#0e8f5f">时，这些原虫的</span><span style="color:#e60012">繁殖能力和致病力显著增强</span><span style="color:#0e8f5f">，使患者出现明显的临床症状，甚至危及生命。</span>
 
 ## 四、节肢动物（Arthropods）
 
 ### 医学节肢动物（Medical arthropod）
 
-通过骚扰、蜇刺、吸血、毒害、寄生和传播病原体等方式危害人畜健康的节肢动物。
+<span style="color:#0e8f5f">通过</span><span style="color:#e60012">骚扰、蜇刺、吸血、毒害、寄生和传播病原体</span><span style="color:#0e8f5f">等方式危害人畜健康的节肢动物。</span>
 
 ### 机械性传播（Mechanical transmission）
 
-医学节肢动物对病原体仅起机械携带、输送作用，造成病原体传播。
+<span style="color:#0e8f5f">医学节肢动物</span><span style="color:#e60012">对病原体仅起机械携带、输送作用</span><span style="color:#0e8f5f">，造成病原体传播。</span>
 
 ### 生物性传播（Biological transmission）
 
-病原体必须在节肢动物体内经历发育或/和繁殖的阶段，才具感染性造成传播。
+<span style="color:#e60012">病原体</span><span style="color:#0e8f5f">必须在</span><span style="color:#e60012">节肢动物体内经历发育或/和繁殖的阶段</span><span style="color:#0e8f5f">，才具感染性造成传播。</span>
 
 ### 变态（Metamorphosis）
 
-昆虫在发育过程中，由卵至成虫期，它经历从外部形态、内部结构、生理功能到生态习性、行为和本能上的一系列变化。
+<span style="color:#0e8f5f">昆虫在发育过程中，由卵至成虫期，它经历从</span><span style="color:#e60012">外部形态、内部结构、生理功能到生态习性、行为和本能</span><span style="color:#0e8f5f">上的一系列变化。</span>
 
 ### 发育式传播（Cyclodevelopmental transmission）
 
-病原体在医学节肢动物体内只有发育而无繁殖，即病原体仅有形态结构及生理功能的特化，并无数量增加。
+<span style="color:#0e8f5f">病原体在医学节肢动物体内</span><span style="color:#e60012">只有发育而无繁殖</span><span style="color:#0e8f5f">，即病原体仅有</span><span style="color:#e60012">形态结构及生理功能的特化</span><span style="color:#0e8f5f">，并</span><span style="color:#e60012">无数量增加</span><span style="color:#0e8f5f">。</span>
 
 ### 繁殖式传播（Propagative transmission）
 
-病原体在医学节肢动物体内只有繁殖而无发育，即病原体仅有数量增加，并无形态变化。
+<span style="color:#0e8f5f">病原体在医学节肢动物体内</span><span style="color:#e60012">只有繁殖而无发育</span><span style="color:#0e8f5f">，即病原体仅</span><span style="color:#e60012">有数量增加</span><span style="color:#0e8f5f">，</span><span style="color:#e60012">并无形态变化</span><span style="color:#0e8f5f">。</span>
 
 ### 发育繁殖式传播（Cyclopropagative transmission）
 
-病原体在医学节肢动物体内不仅发育而且繁殖，即病原体既有形态变化，又有数量增加，这种病原体必须在虫媒体内完成发育和繁殖过程才能传染给人。
+<span style="color:#0e8f5f">病原体在医学节肢动物体内不仅</span><span style="color:#e60012">发育而且繁殖</span><span style="color:#0e8f5f">，即病原体既有形态变化，又有数量增加，这种病原体</span><span style="color:#e60012">必须在虫媒体内完成发育和繁殖过程才能传染给人</span><span style="color:#0e8f5f">。</span>
 
 ### 经卵传递式传播（Transovarial transmission）
 
-病原体在医学节肢动物体内不仅繁殖而且能侵入卵巢，经卵传递至下一代，产生众多的具有感染性后代，造成病原体的广泛传播。
+<span style="color:#0e8f5f">病原体在医学节肢动物体内不仅</span><span style="color:#e60012">繁殖而且能侵入卵巢</span><span style="color:#0e8f5f">，经卵传递至下一代，产生众多的具有感染性后代，造成病原体的广泛传播。</span>
